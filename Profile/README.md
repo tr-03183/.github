@@ -1,22 +1,18 @@
-# BSI TR-03183 Organisation
+# TR-03183
 
-Welcome to the Github Organisation for the Technical Guideline BSI TR-03183 "Cyber Resilience Requirements for Manufacturers and Products"
+This is a GitHub organisation to support the development of BSI's (the [German Federal Office for Information Security](https://www.bsi.bund.de/EN/)) Technical Guideline TR-03183 "Cyber Resilience Requirements for Manufacturers and Products", which comprises three parts.
 
-The BSI TR-03183 describes the BSI interpretation of the Cyber Resilience Requirements for Manufacturers and Products and serves to prepare for requirements of the Cyber Resilience Act (CRA).
+The Technical Guideline BSI TR-03183 covers Cyber Resilience Requirements for Manufacturers and Products and supports requirements by the Cyber Resilience Act (CRA).
 
-This document is intended as a collection of information and as an introductory guide to the CRA, particularly for manufacturers who have not yet established mature IT security processes as part of their development and vulnerability handling.
+This Technical Guideline is intended as a collection of information and as guidance on specific aspects of the CRA, particularly for manufacturers who have not yet established proper IT security processes as a regular part of their product development and their products' vulnerability handling.
 
-The information provided is a guideline and is neither legally binding nor mandatory. It cannot be used as presumption of conformity. BSI TR-03183 will be gradually developed further and replaced by the corresponding harmonized European standards as soon as they become available.
-
-The CRA came into force in December 2024. The transitional periods are currently running until its full implementation on 11 December 2027. Find out more about the CRA: https://www.bsi.bund.de/dok/cra-en
-
-The Technical Guideline is continuously updated and further developed.
+The CRA came into force in December 2024. Transitional periods are currently running until CRA's full implementation on 11 December 2027. Find out more about the CRA: https://www.bsi.bund.de/dok/cra-en
 
 Part 1 "General Requirements" describes requirements for Manufacturers and Products on the basis of the articles and annexes of the CRA.
 
-Part 2 "Software Bill of Materials (SBOM)" describes formal and technical requirements for Software Bill of Materials (SBOM).
+Part 2 "Software Bill of Materials (SBOM)" describes formal and technical requirements for Software Bill of Materials (SBOMs).
 
-Part 3 “Vulnerability Reports and Notifications” describes the handling of incoming vulnerability reports.
+Part 3 “Vulnerability Reports and Notifications” describes the handling of vulnerability reports.
 
-For more information and access to the organisation go to: https://www.bsi.bund.de/dok/TR-03183-en
+More information on BSI TR-03183: https://www.bsi.bund.de/dok/TR-03183-en
 
